@@ -1,0 +1,11 @@
+cars:
+- bmw
+- mersedes
+- kia
+- ford
+quantity: 4
+price:
+  bmw: 2000€
+  mersedes: 3000€
+  kia: 500€
+  ford: 1000€
